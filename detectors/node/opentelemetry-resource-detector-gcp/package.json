@@ -62,7 +62,7 @@
     "@opentelemetry/resources": "^1.0.0",
     "@opentelemetry/semantic-conventions": "^1.0.0",
     "gcp-metadata": "^5.0.0",
-    "semver": "7.3.5"
+    "semver": "7.5.2"
   },
   "homepage": "https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/detectors/node/opentelemetry-resource-detector-gcp#readme"
 }
