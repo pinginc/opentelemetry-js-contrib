@@ -31,14 +31,14 @@
     "url": "https://github.com/open-telemetry/opentelemetry-js-contrib/issues"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.0",
+    "@babel/core": "^8.0.9",
     "babel-loader": "^8.0.6",
     "ts-loader": "^6.0.4"
   },
   "dependencies": {
     "@opentelemetry/api": "^1.0.4",
     "@opentelemetry/context-zone": "^0.25.0",
-    "@opentelemetry/core": "^0.25.0",
+    "@opentelemetry/core": "^3.0.0",
     "@opentelemetry/exporter-collector": "^0.25.0",
     "@opentelemetry/plugin-react-load": "^0.23.0",
     "@opentelemetry/sdk-trace-base": "^0.25.0",
