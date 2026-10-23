@@ -67,7 +67,7 @@
     "@material-ui/icons": "4.11.2",
     "@material-ui/lab": "4.0.0-alpha.60",
     "@opentelemetry/context-zone": "^1.0.0",
-    "@opentelemetry/core": "^1.8.0",
+    "@opentelemetry/core": "^3.0.0",
     "@opentelemetry/exporter-trace-otlp-http": "^0.34.0",
     "@opentelemetry/exporter-zipkin": "^1.0.0",
     "@opentelemetry/instrumentation": "^0.34.0",

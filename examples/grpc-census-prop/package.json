@@ -35,7 +35,7 @@
     "@opencensus/nodejs": "0.0.21",
     "@opencensus/propagation-binaryformat": "0.0.21",
     "@opentelemetry/api": "^1.0.2",
-    "@opentelemetry/core": "^0.25.0",
+    "@opentelemetry/core": "^3.0.0",
     "@opentelemetry/instrumentation": "^0.25.0",
     "@opentelemetry/instrumentation-grpc": "^0.25.0",
     "@opentelemetry/sdk-trace-node": "^0.25.0",
