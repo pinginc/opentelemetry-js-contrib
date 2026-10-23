@@ -64,7 +64,7 @@
     "@types/mocha": "8.2.3",
     "@types/node": "18.11.7",
     "@types/sinon": "10.0.6",
-    "aws-sdk": "2.1008.0",
+    "aws-sdk": "2.1693.0",
     "eslint": "8.7.0",
     "expect": "29.2.0",
     "gts": "3.1.0",
